@@ -1,5 +1,6 @@
 ## 💖 Support My Work
 
+Looking for N8N Automations? Visit my [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://link.lazymedia.media/patreon).
 Enjoying this project? Help me keep it alive and evolving:
 
 ### 🌟 One-Time Donations
