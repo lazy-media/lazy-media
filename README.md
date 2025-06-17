@@ -6,8 +6,9 @@
 
 <details>
   <summary>Click Here to Build A Resume!</summary>
-  1) Visit **[Lazy Media's Reactive Resume](https://resume.lazymedia.media)**!
-  2) Create a **FREE account** now.
+  
+  - Visit **[Lazy Medias Reactive Resume](https://resume.lazymedia.media)!**
+  - Create a **FREE account** now.
   
   Everyone should be able to have access to a way to have a professional Resume.
   
