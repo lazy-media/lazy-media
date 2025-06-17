@@ -1,7 +1,26 @@
 ## 💖 Support My Work
 
 - Looking for N8N Automations? Visit my [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://link.lazymedia.media/patreon).
-- Enjoying this project? Help me keep it alive and evolving:
+
+## Need to build a Resume?
+
+<details>
+  <summary>Click Here to Build A Resume!</summary>
+  1) Visit **[Lazy Media's Reactive Resume](https://resume.lazymedia.media)**!
+  2) Create a **FREE account** now.
+  
+  Everyone should be able to have access to a way to have a professional Resume.
+  
+  A resume builder application with:
+  - Public Link Sharing
+  - Public WebPage Sharing
+  - AI capabilities (if setup correctly)
+  - And more!
+
+  View our [Public GitLab Documentation](https://gitlab.lazymedia.media/public-files/public-files) and navigate to the *Reactive Resume* folder for proper instructions on AI Integration.
+</details>
+
+> ### Enjoying this project? Help me keep it alive and evolving:
 
 ### 🌟 One-Time Donations
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lazymediawa)
