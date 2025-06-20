@@ -51,7 +51,7 @@ Stay updated with my latest projects and tutorials:
 ### 💻 Dev Platforms
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lazy-media)
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.lazymedia.media/root)
-[![Crowdin](https://img.shields.io/badge/Translate_with_Crowdin-2ecc71?logo=crowdin)](https://crowdin.com/project/lazymedia-reactive-resume)
+[![Crowdin](https://img.shields.io/badge/Translate_Reactive_Resume_with_Crowdin-2ecc71?logo=crowdin)](https://crowdin.com/project/lazymedia-reactive-resume)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/lazymedia)
 
 ### 🎥 Video & Live Streaming
