@@ -9,6 +9,7 @@
   
   - Visit **[Lazy Medias Reactive Resume](https://resume.lazymedia.media)!**
   - Create a **FREE account** now.
+    - *Must Verify Email to create an account.*
   
   Everyone should be able to have access to a way to have a professional Resume.
   
