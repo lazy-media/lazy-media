@@ -19,7 +19,7 @@
   - AI capabilities (if setup correctly)
   - And more!
 
-  View our [Public GitLab Documentation](https://gitlab.lazymedia.media/public-files/public-files) and navigate to the *Reactive Resume* folder for proper instructions on AI Integration.
+  View our [Public GitHub Documentation](https://github.com/lazy-media/public/tree/main/Reactive-Resume/Installation#adding-local-ai--openwebui-to-reactive-resume) for proper instructions on AI Integration.
 </details>
 
 > ### Enjoying this project? Help me keep it alive and evolving:
