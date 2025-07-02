@@ -19,7 +19,7 @@
   - AI capabilities (if setup correctly)
   - And more!
 
-  View our [Public GitHub Documentation](https://github.com/lazy-media/public/tree/main/Reactive-Resume/Installation#adding-local-ai--openwebui-to-reactive-resume) for proper instructions on AI Integration.
+  View the [Reactive Resume Repository](https://github.com/lazy-media/Reactive-Resume?tab=readme-ov-file#ollama--openwebui-instructions) for proper instructions on AI Integration.
 </details>
 
 > ### Enjoying this project? Help me keep it alive and evolving:
