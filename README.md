@@ -1,3 +1,13 @@
+## Who is Lazy Media?
+
+I'm someone who apparently thought maintaining an open source project would be easier than it looks. Spoiler: I was wrong. By day, I'm a normal person with a full-time job, and by night (and weekends), I'm a GitHub newbie trying to fix things in Reactive Resume without breaking them further.
+
+After noticing the original repo had gone quiet for about a year while people were still actively reporting issues, I decided to fork it and create a Community Self-Hosted Version. Because nothing says "fun weekend project" like inheriting someone else's codebase when you're not even a proper developer.
+
+When I'm not accidentally creating new bugs while fixing old ones, you can find me playing PC games - specifically racing, city builders, and factory sims. Because if I can't organize my code properly, at least I can organize a virtual city or an overly complex factory line.
+
+My other hobby? Tinkering with random open source projects for my home lab. Because clearly maintaining one project isn't enough chaos in my life. But hey, someone's got to keep the lights on for Reactive Resume's community, even if that someone is learning as they go.
+
 ## 💖 Support My Work
 
 > Looking for N8N Automations? Visit my [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://link.lazymedia.media/patreon).
