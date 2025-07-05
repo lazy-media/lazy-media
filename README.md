@@ -17,7 +17,7 @@ My other hobby? Tinkering with random open source projects for my home lab. Beca
 <details>
   <summary>Click Here to Build A Resume!</summary>
   
-  - Visit **[Lazy Medias Reactive Resume](https://resume.lazymedia.media)!**
+  - Visit **[Lazy Medias Reactive Resume](https://rxresume.lazymedia.media)!**
   - Create a **FREE account** now.
     - *Must Verify Email to create an account.*
   
