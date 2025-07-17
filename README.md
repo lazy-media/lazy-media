@@ -38,7 +38,6 @@ My other hobby? Tinkering with random open source projects for my home lab. Beca
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lazymediawa)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/lazymedia)
 [![Venmo](https://img.shields.io/badge/Venmo-008CFF?style=for-the-badge&logo=venmo&logoColor=white)](https://venmo.com/lazymedia)
-[![OpenCollective](https://img.shields.io/badge/OpenCollective-7FADF2?style=for-the-badge&logo=opencollective&logoColor=white)](https://opencollective.com/lazymedia)
 
 ### 🔄 Recurring Support
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-30363D?style=for-the-badge&logo=github-sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/lazy-media)
@@ -57,7 +56,7 @@ Stay updated with my latest projects and tutorials:
 ### 📱 Social Media
 
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://link.lazymedia.media/mastodon)
-[![Discord](https://img.shields.io/badge/Main_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://link.lazymedia.media/lazymedia-discord-promo-page)
+[![Discord](https://img.shields.io/badge/Reactive_Resume_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/servers/lazy-media-s-reactive-resume-1392393638247530587)
 [![Discord](https://img.shields.io/badge/Gaming_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://link.lazymedia.media/lazymedia-gaming-discord-promo-page)
 
 ### 💻 Dev Platforms
