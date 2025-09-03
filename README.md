@@ -19,7 +19,6 @@ My other hobby? Tinkering with random open source projects for my home lab. Beca
   
   - Visit **[Lazy Medias Reactive Resume](https://rxresume.org)!**
   - Create a **FREE account** now.
-    - *Must Verify Email to create an account.*
   
   Everyone should be able to have access to a way to have a professional Resume.
   
