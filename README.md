@@ -10,14 +10,14 @@ My other hobby? Tinkering with random open source projects for my home lab. Beca
 
 ## 💖 Support My Work
 
-> Looking for N8N Automations? Visit my [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://link.lazymedia.media/patreon).
+> Looking for N8N Automations? Visit my [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://tianji.lazymedia.media/s/patreon).
 
 ## Need to build a Resume?
 
 <details>
   <summary>Click Here to Build A Resume!</summary>
   
-  - Visit **[Lazy Medias Reactive Resume](https://rxresume.org)!**
+  - Visit **[Lazy Medias Reactive Resume](https://tianji.lazymedia.media/s/rxresume)!**
   - Create a **FREE account** now.
   
   Everyone should be able to have access to a way to have a professional Resume.
@@ -34,13 +34,13 @@ My other hobby? Tinkering with random open source projects for my home lab. Beca
 > ### Enjoying this project? Help me keep it alive and evolving:
 
 ### 🌟 One-Time Donations
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lazymediawa)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/lazymedia)
-[![Venmo](https://img.shields.io/badge/Venmo-008CFF?style=for-the-badge&logo=venmo&logoColor=white)](https://venmo.com/lazymedia)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://tianji.lazymedia.media/s/paypal)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://tianji.lazymedia.media/s/buymeacoffee)
+[![Venmo](https://img.shields.io/badge/Venmo-008CFF?style=for-the-badge&logo=venmo&logoColor=white)](https://tianji.lazymedia.media/s/venmo)
 
 ### 🔄 Recurring Support
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-30363D?style=for-the-badge&logo=github-sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/lazy-media)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://link.lazymedia.media/patreon)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-30363D?style=for-the-badge&logo=github-sponsors&logoColor=#EA4AAA)](https://tianji.lazymedia.media/s/github-sponsor)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://tianji.lazymedia.media/s/patreon)
 
 ### ₿ Crypto Donations
 **Bitcoin:**  
@@ -54,9 +54,9 @@ Stay updated with my latest projects and tutorials:
 
 ### 📱 Social Media
 
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://link.lazymedia.media/mastodon)
-[![Discord](https://img.shields.io/badge/Reactive_Resume_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/servers/lazy-media-s-reactive-resume-1392393638247530587)
-[![Discord](https://img.shields.io/badge/Gaming_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://link.lazymedia.media/lazymedia-gaming-discord-promo-page)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://tianji.lazymedia.media/s/mastodon)
+[![Discord](https://img.shields.io/badge/Reactive_Resume_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://tianji.lazymedia.media/s/rrdiscord)
+[![Discord](https://img.shields.io/badge/Gaming_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://tianji.lazymedia.media/s/lmgamingdiscord)
 
 ### 💻 Dev Platforms
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lazy-media)
