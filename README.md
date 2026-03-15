@@ -39,9 +39,15 @@ My other hobby? Tinkering with random open source projects for my home lab. Beca
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-30363D?style=for-the-badge&logo=github-sponsors&logoColor=#EA4AAA)](https://links.lazymedia.media/q/iGmWHIZTq)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://links.lazymedia.media/q/arP6BMfAL)
 
-### ₿ Crypto Donations
-**Bitcoin:**  
-`13GdxyJ85Y78oq97Ktnr6fqdCUsa4vcMgp`
+### ₿ Crypto (via BTCPay Server)
+
+Preferred method — self-hosted, fee-free, and fully sovereign. Hit the button below to contribute directly through my BTCPay crowdfund:
+
+[![Contribute via BTCPay](https://img.shields.io/badge/Contribute_via_BTCPay-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://btcpay.lazymedia.media)
+[![Contribute via BTCPay Crowdfunding](https://img.shields.io/badge/Contribute_via_BTCPay_Crowdfunding-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://btcpay.lazymedia.media/apps/2WvVG6qpeyeqezbFrNhP5LvyJ4vj/crowdfund)
+
+**Bitcoin (direct):**  
+`34t2s1LhNAWXLdbAJHMNDLhXKfdEyt6fvm`
 
 ---
 
