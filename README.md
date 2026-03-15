@@ -38,14 +38,16 @@ My other hobby? Tinkering with random open source projects for my home lab. Beca
 ### 🔄 Recurring Support
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-30363D?style=for-the-badge&logo=github-sponsors&logoColor=#EA4AAA)](https://links.lazymedia.media/q/iGmWHIZTq)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://links.lazymedia.media/q/arP6BMfAL)
-
 ### ₿ Crypto (via BTCPay Server)
 
 Preferred method — self-hosted, fee-free, and fully sovereign. Hit the button below to contribute directly through my BTCPay crowdfund:
 
 [![Contribute via BTCPay](https://img.shields.io/badge/Contribute_via_BTCPay-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://btcpay.lazymedia.media)
+<br>
 [![Contribute via BTCPay Crowdfunding](https://img.shields.io/badge/Contribute_via_BTCPay_Crowdfunding-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://btcpay.lazymedia.media/apps/2WvVG6qpeyeqezbFrNhP5LvyJ4vj/crowdfund)
-
+<br>
+[![BTC Pay Link QR](https://docs.lazymedia.media/~gitbook/image?url=https%3A%2F%2F578017965-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYl7uqSXjF4KfAIPxjz6T%252Fuploads%252FDfOleRc9zwYLJI6Tvolq%252Fimage.png%3Falt%3Dmedia%26token%3Daad15d7f-4616-4972-85cf-318829aaa858&width=560&dpr=1&quality=100&sign=f7d3673&sv=2)
+<br>
 **Bitcoin (direct):**  
 `34t2s1LhNAWXLdbAJHMNDLhXKfdEyt6fvm`
 
