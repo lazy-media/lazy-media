@@ -38,6 +38,7 @@ My other hobby? Tinkering with random open source projects for my home lab. Beca
 ### 🔄 Recurring Support
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-30363D?style=for-the-badge&logo=github-sponsors&logoColor=#EA4AAA)](https://links.lazymedia.media/q/iGmWHIZTq)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://links.lazymedia.media/q/arP6BMfAL)
+
 ### ₿ Crypto (via BTCPay Server)
 
 Preferred method — self-hosted, fee-free, and fully sovereign. Hit the button below to contribute directly through my BTCPay crowdfund:
