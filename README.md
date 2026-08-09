@@ -1,6 +1,6 @@
 ## Who is Lazy Media?
 
-Lazy Media is one person, a residential internet connection in Washington State, and a small army of Docker containers that probably shouldn't all be running on the same box but here we are. No company, no employees, no investors to answer to — just one admin keeping 100+ open-source apps alive at `lazymedia.media` and its subdomains, because apparently that's a normal hobby now.
+Lazy Media is one person, a residential internet connection in Washington State, and a small army of Docker containers that probably shouldn't all be running on the same box but here we are. No company, no employees, no investors to answer to — just one admin keeping 50+ open-source apps alive at `lazymedia.media` and its subdomains, because apparently that's a normal hobby now.
 
 It started as a home lab. It did not stay a home lab. Somewhere between "let me try self-hosting one thing" and "why do I now run my own auth provider," Lazy Media became actual infrastructure that actual people depend on — file storage, photo backups, a Discord alternative, a Mastodon instance, single sign-on, status monitoring, and whatever else got added at 1am on a Tuesday.
 
